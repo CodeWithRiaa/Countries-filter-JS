@@ -1,4 +1,4 @@
-// - Country API 
+// - Countries API 
 // - country flag
 // - country name / aipha-3 code
 // - offical native / alternative spellings
